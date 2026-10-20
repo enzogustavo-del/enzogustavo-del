@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+ Meu nome é Enzo Gustavo, sou apaixonado por tecnologia e programação em Python. Sou extrovertido, curioso e estou sempre buscando aprender coisas novas! 🌎✈️
+
+🌌 Fascinado pelo universo, pela astronomia e pelos mistérios do espaço. Meu sonho é fazer intercâmbio, conhecer novas culturas e expandir meus horizontes pelo mundo.
+
+💻 Transformando ideias em código e sonhos em objetivos. Um passo de cada vez, rumo ao futuro que em breve será o presente!
+<img width="1254" height="1254" alt="Desenvolvedor Python_ Sonhos Entre Estrelas" src="https://github.com/user-attachments/assets/53766b9e-6556-4336-a9bb-471fdbb9590c" />
+
+ 
 <!--
 **enzogustavo-del/enzogustavo-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
